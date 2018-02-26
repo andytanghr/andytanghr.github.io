@@ -1,0 +1,18 @@
+captions are grey color, smaller size, centered below image, san-serif font
+DONE
+
+get magnifying glass icon
+
+get triangle to the top icon
+
+font family:
+marat sans
+charter (serif)
+
+heading:
+different typeface from body
+after name, subtitle is grey
+
+center content, but left align
+use CSS grid?
+

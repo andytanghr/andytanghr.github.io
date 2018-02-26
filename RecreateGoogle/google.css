@@ -1,0 +1,40 @@
+div {
+    margin-top: 50px;
+    text-align: center;
+}
+form {
+    height: 25px;
+    margin-top: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+input {
+    padding-left: 13px;
+    height: 37px;
+    width: 565px;
+    font-size: 16px;
+    font-weight: normal;
+    box-shadow: 2px 2px 5px #d3d3d3;
+    background-image: url(mic.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+input:hover {
+    box-shadow: 1px 1px 2px 2px #d3d3d3;
+}
+button {
+    height: 35px;
+    background-color: rgb(243, 243, 243);
+    font-weight: bold;
+    font-size: 12px;
+    color: rgb(117, 117, 117);
+    border-radius: 2px;
+    border: 1px solid rgb(241, 241, 241);
+}
+#search {
+    margin-right: 4px;
+    width: 125px;
+}
+#lucky {
+    width: 142px;
+}
